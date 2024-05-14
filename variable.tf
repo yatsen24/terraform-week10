@@ -1,5 +1,5 @@
 variable "ENVIRONMENT" {
-  
+  default = "main"
 }
 variable "REGION" {
   default = "us-east-1"
